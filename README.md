@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajabov Doston</h1>
 <h3 align="center">A passionate frontend developer from Uzbekiston</h3>
-(img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&s")
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dostonjon21&label=Profile%20views&color=0e75b6&style=flat" alt="dostonjon21" /> </p>
 
